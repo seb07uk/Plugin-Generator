@@ -1,3 +1,7 @@
+
+![PluginGenerator](https://raw.githubusercontent.com/seb07uk/Plugin-Generator/refs/heads/main/docs/Screenshot.png)
+
+
 # polsoft.ITS™ Plugin Generator
 
 > **Developer tool for [polsoft.ITS™ Script Editor](https://github.com/seb07uk)** — scaffold, validate, and ship editor plugins in seconds.
