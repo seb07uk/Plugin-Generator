@@ -1,0 +1,41 @@
+# UTF-8
+#
+# polsoft.ITS™ Plugin Generator — Windows VERSIONINFO
+# Programista: Sebastian Januchowski | polsoft.ITS™ Group
+# 2026© Sebastian Januchowski & polsoft.ITS™. All rights reserved.
+#
+VSVersionInfo(
+  ffi=FixedFileInfo(
+    filevers=(4, 2, 0, 0),
+    prodvers=(4, 2, 0, 0),
+    mask=0x3F,
+    flags=0x0,
+    OS=0x40004,
+    fileType=0x1,
+    subtype=0x0,
+    date=(0, 0)
+  ),
+  kids=[
+    StringFileInfo(
+      [
+        StringTable(
+          u'040904B0',
+          [
+            StringStruct(u'CompanyName',      u'polsoft.ITS Group'),
+            StringStruct(u'FileDescription',  u'polsoft.ITS Plugin Generator'),
+            StringStruct(u'FileVersion',      u'4.2.0.0'),
+            StringStruct(u'InternalName',     u'plugin_generator'),
+            StringStruct(u'LegalCopyright',   u'2026 Sebastian Januchowski. All rights reserved.'),
+            StringStruct(u'OriginalFilename', u'PluginGenerator.exe'),
+            StringStruct(u'ProductName',      u'polsoft.ITS Plugin Generator'),
+            StringStruct(u'ProductVersion',   u'4.2.0.0'),
+            StringStruct(u'Comments',         u'polsoft.ITS Script Editor developer tool'),
+            StringStruct(u'Contact',          u'polsoft.its@fastservice.com'),
+            StringStruct(u'URL',              u'https://github.com/seb07uk'),
+          ]
+        )
+      ]
+    ),
+    VarFileInfo([VarStruct(u'Translation', [0x0409, 0x04B0])])
+  ]
+)
